@@ -1,2 +1,1 @@
-# pyspark
-Programming Assignment for CMPE 256
+# Programming Assignment for CMPE 256 using PySpark
